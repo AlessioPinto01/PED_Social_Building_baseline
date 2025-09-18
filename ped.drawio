@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.3">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="958" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="4ezKvrHGjKBmmpNKssFA-17" value="Grid Import" style="startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.448;exitY=0.93;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4ezKvrHGjKBmmpNKssFA-34" target="4ezKvrHGjKBmmpNKssFA-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="77" y="400" />
+              <mxPoint x="638" y="400" />
+            </Array>
+            <mxPoint x="150" y="330" as="sourcePoint" />
+            <mxPoint x="720" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4ezKvrHGjKBmmpNKssFA-51" value="Battery Discharge" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4ezKvrHGjKBmmpNKssFA-29" target="4ezKvrHGjKBmmpNKssFA-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4ezKvrHGjKBmmpNKssFA-29" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Ionicons-2627/icon-battery-charging-1125.svg" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="238.5" width="93" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="4ezKvrHGjKBmmpNKssFA-32" value="Battery Storage" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="325.5" y="303" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4ezKvrHGjKBmmpNKssFA-33" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Business___Finance_glyph_V2-2804/209_Electric_tower_electricity_power_tower_computing-950.svg" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="278" width="85" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="4ezKvrHGjKBmmpNKssFA-34" value="Electricity Supply" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="27.5" y="360" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4ezKvrHGjKBmmpNKssFA-46" value="Grid Export" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4ezKvrHGjKBmmpNKssFA-35" target="4ezKvrHGjKBmmpNKssFA-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="20" />
+              <mxPoint x="82" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4ezKvrHGjKBmmpNKssFA-35" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Business___Finance_glyph_V2-2804/133_Solar_Panel_Energy_technology_smart_city_technology_smart-711.svg" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360.5" y="69" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4ezKvrHGjKBmmpNKssFA-40" value="Building Electricity Bus" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="563.54" y="290" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4ezKvrHGjKBmmpNKssFA-49" value="Battery Charge" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4ezKvrHGjKBmmpNKssFA-41" target="4ezKvrHGjKBmmpNKssFA-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4ezKvrHGjKBmmpNKssFA-41" value="PV Bus" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="325.5" y="136" width="150" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="4ezKvrHGjKBmmpNKssFA-43" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/buildings/Long_Building.svg;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="216.66000000000003" width="77.08" height="79.67" as="geometry" />
+        </mxCell>
+        <mxCell id="4ezKvrHGjKBmmpNKssFA-44" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Business___Finance_glyph_V2-2804/209_Electric_tower_electricity_power_tower_computing-950.svg" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="40" width="85" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="4ezKvrHGjKBmmpNKssFA-45" value="Electricity Export" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="27.5" y="119" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
